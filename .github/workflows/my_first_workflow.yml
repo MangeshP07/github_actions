@@ -1,4 +1,4 @@
-ame: Shell commands
+name: Shell commands
 on: [push]
 jobs:
   run-shell-command:
