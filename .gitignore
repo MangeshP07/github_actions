@@ -1,0 +1,20 @@
+# Mac files
+.DS_Store
+
+# Python files (He khup mahatvache aahe)
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# ML Data & Models (Mothya files mhanun)
+*.csv
+*.pkl
+*.h5
+*.model
+
+# Backup and Swap files 
+.gitignore# 
+.gitignore~ 
+*.swp
