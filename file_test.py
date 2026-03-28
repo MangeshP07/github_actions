@@ -19,4 +19,4 @@ def test_coucou():
     # ५. '=' च्या दोन्ही बाजूला स्पेस दिला आहे (E225 फिक्स करण्यासाठी)
     output = 'hello'
     assert output == 'hello'
-    
+
